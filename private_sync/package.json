@@ -1,0 +1,40 @@
+{
+  "_from": "private_sync@^1.0.2",
+  "_id": "private_sync@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-T1ETz8Z1ShkdIAMKVgE8m4m4m5+64hOj1gATHB0fdCbCzPI49q1wShZvw1+Pfjdmyrn849/6hGcbwxAnbRDHlg==",
+  "_location": "/private_sync",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "private_sync@^1.0.2",
+    "name": "private_sync",
+    "escapedName": "private_sync",
+    "rawSpec": "^1.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/private_sync/-/private_sync-1.0.2.tgz",
+  "_shasum": "dd23907ca9fb9de4636f29d81e0a02bd6a5bf65e",
+  "_spec": "private_sync@^1.0.2",
+  "_where": "E:\\Crypto\\Snipperbot\\sniper\\snipperBot_backend",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.24.0"
+  },
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "private_sync",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
